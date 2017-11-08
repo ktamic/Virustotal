@@ -25,7 +25,7 @@ print('[\x1b[32m+\x1b[0m] File hash (sha256) : ',fileSha256)
 statinfo = os.stat(filename)
 Sizemb = statinfo.st_size / 10**6
 print('[\x1b[32m+\x1b[0m] File size : ',Sizemb,'MB')
-params = {'apikey': '999990ffc7315a9599246d9abf98579a33285b7a0bb87df8308bf9caa639bfa5', # <-- signup in virustotal and put your apikey here,
+params = {'apikey': '', # <-- signup in virustotal and put your apikey here,
           'resource': fileSha256
          }
 headers = {
