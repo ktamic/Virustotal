@@ -1,9 +1,8 @@
 # Virustotal file scanner (Uno)
 
-* Show file scan report (if has been scanned before)
-& ask you if you went to re-scan it.
-* upload and scan new file (if virustotal didn't recognize file hash)
-& wait 9min until he make scan report
+* Show file scan report (if the file has been scanned before)
+& ask for a re-scan.
+* upload and scan new file.
 
 * usage : python virutotal.py -f /home/user/Desktop/file2003.doc
 
