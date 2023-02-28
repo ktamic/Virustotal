@@ -9,9 +9,8 @@
 
 **Updates :**
 - [7/11/2017] release date
-- ...
  ________________________________________________________________________
-![alt text](https://i.imgur.com/3UfWuR1.png)
+![alt text](https://i.imgur.com/CcZYhpq.png)
 ![alt text](https://i.imgur.com/bggQ3CW.png)
 _________________________________________________________________________
 
