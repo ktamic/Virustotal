@@ -9,9 +9,9 @@ clear = lambda: os.system('clear')
 clear()
 print('''
 \x1b[34m _____  _                 _    ___  _         __ \x1b[0m
-\x1b[34m|  |  ||_| ___  _ _  ___ | |_ |   || |_  ___ | ||\x1b[0m Twitter : @Ba3bar
-\x1b[34m|  |  || ||  _|| | ||_ -||  _|| | ||  _|| .'|| ||\x1b[0m Github  : @islamique
-\x1b[34m \___/ |_||_|  |___||___||_|  |___||_|  |__,||_||\x1b[0m Barbarian (2018/1439)
+\x1b[34m|  |  ||_| ___  _ _  ___ | |_ |   || |_  ___ | ||\x1b[0m
+\x1b[34m|  |  || ||  _|| | ||_ -||  _|| | ||  _|| .'|| ||\x1b[0m Github  : @timizart
+\x1b[34m \___/ |_||_|  |___||___||_|  |___||_|  |__,||_||\x1b[0m
 
 \x1b[34m[\x1b[0m Virustotal File Scanner \x1b[34m]\x1b[0m
 ''')
